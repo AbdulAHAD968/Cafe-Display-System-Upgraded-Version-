@@ -1,0 +1,16 @@
+SUPERCRISP 70 1 70
+ORDERED BY = 
+ORDERED AT TIME = 2024-05-05 18:40:23          TO BE DELIVERED AT : 
+NUMBER OF PRODUCTS : 1                           	TOTAL PRICE PAYABLE  =/ : 70
+--------------------------------------------------
+CHOCOLATE 50 1 50
+LOLYPOP 30 1 30
+ORDERED BY = 
+ORDERED AT TIME = 2024-05-05 18:42:48          TO BE DELIVERED AT : 
+NUMBER OF PRODUCTS : 2                           	TOTAL PRICE PAYABLE  =/ : 80
+--------------------------------------------------
+PIZZA 200 1 200
+ORDERED BY = ALI JUTT
+ORDERED AT TIME = 2024-05-13 00:05:16          TO BE DELIVERED AT : 4:00 PM
+NUMBER OF PRODUCTS : 1                           	TOTAL PRICE PAYABLE  =/ : 200
+--------------------------------------------------
